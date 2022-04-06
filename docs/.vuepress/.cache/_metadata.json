@@ -1,0 +1,31 @@
+{
+  "hash": "18d708e0",
+  "browserHash": "b5c37366",
+  "optimized": {
+    "vue": {
+      "file": "/Users/vegardietz/Documents/Testere/vuepress-starter/docs/.vuepress/.cache/vue.js",
+      "src": "/Users/vegardietz/Documents/Testere/vuepress-starter/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/Users/vegardietz/Documents/Testere/vuepress-starter/docs/.vuepress/.cache/vue-router.js",
+      "src": "/Users/vegardietz/Documents/Testere/vuepress-starter/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "/Users/vegardietz/Documents/Testere/vuepress-starter/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "/Users/vegardietz/Documents/Testere/vuepress-starter/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/Users/vegardietz/Documents/Testere/vuepress-starter/docs/.vuepress/.cache/nprogress.js",
+      "src": "/Users/vegardietz/Documents/Testere/vuepress-starter/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "/Users/vegardietz/Documents/Testere/vuepress-starter/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/Users/vegardietz/Documents/Testere/vuepress-starter/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
